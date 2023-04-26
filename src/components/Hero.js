@@ -12,10 +12,7 @@ const Hero = () => {
           comfort zone
         </h1>
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto, at
-          sed omnis corporis doloremque possimus velit! Repudiandae nisi odit,
-          aperiam odio ducimus, obcaecati libero et quia tempora excepturi quis
-          alias?
+        Welcome to Comfy Sloth, where you can design your comfort zone. Explore our wide range of high-quality furniture and make your home a haven of relaxation and style.
         </p>
         <Link to='/products' className='btn hero-btn'>
           shop now
